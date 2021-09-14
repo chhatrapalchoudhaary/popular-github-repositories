@@ -1,0 +1,30 @@
+/* Write your CSS here */
+.avatar-img {
+  width: 90px;
+}
+
+.card {
+  margin: 20px;
+  margin-right: 20px;
+  background-color: #f8f8ff;
+  padding: 20px;
+  border-radius: 10px;
+  list-style-type: none;
+}
+
+.repos-name {
+  color: #e73959;
+}
+
+.group {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+
+  height: 32px;
+}
+.icons {
+  width: 24px;
+  margin-right: 5px;
+}

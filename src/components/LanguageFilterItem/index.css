@@ -1,0 +1,28 @@
+/* Write your CSS here */
+.list-item {
+  list-style-type: none;
+  margin-right: 30px;
+  color: #0f172a;
+  font-weight: bold;
+  font-size: 16px;
+  padding: 4px;
+  background-color: transparent;
+  border: none;
+}
+
+.list-item:hover {
+  color: #0284c7;
+  border-radius: 30px;
+  padding: 4px;
+  border: 2px solid #0284c7;
+}
+
+.active-btn-language {
+  background-color: #0284c7;
+  border-radius: 30px;
+  color: white;
+}
+
+.active-btn-language:hover {
+  background-color: transparent;
+}
