@@ -1,4 +1,3 @@
-In this assignment let's build a **Github Popular Repos** by applying the concepts we have learned till now.
 
 ### Refer to images below:
 
